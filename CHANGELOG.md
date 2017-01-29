@@ -1,3 +1,92 @@
+<a name="2.9.4"></a>
+## 2.9.4 (2016-09-25)
+
+* Fix pjax for external post content ([fefe4ae](https://github.com/kikobeats/uno-zen/commit/fefe4ae))
+* Improve development workflow ([1941fa7](https://github.com/kikobeats/uno-zen/commit/1941fa7))
+
+
+
+<a name="2.9.3"></a>
+## 2.9.3 (2016-09-18)
+
+* Add `lang=en` as default ([07bad81](https://github.com/kikobeats/uno-zen/commit/07bad81))
+* Better minify ([c1e23cb](https://github.com/kikobeats/uno-zen/commit/c1e23cb))
+
+
+
+<a name="2.9.2"></a>
+## 2.9.2 (2016-07-26)
+
+* Fix error page font ([a19f837](https://github.com/kikobeats/uno-zen/commit/a19f837))
+
+
+
+<a name="2.9.1"></a>
+## 2.9.1 (2016-07-26)
+
+* Add Instantclick as pajax lib ([aca757a](https://github.com/kikobeats/uno-zen/commit/aca757a))
+* Fix error page css load ([d3949b5](https://github.com/kikobeats/uno-zen/commit/d3949b5))
+* Ignore cfg files ([cd302be](https://github.com/kikobeats/uno-zen/commit/cd302be))
+* Remove unnecessary dep ([db817ea](https://github.com/kikobeats/uno-zen/commit/db817ea))
+* Update ignore files ([17dbcd7](https://github.com/kikobeats/uno-zen/commit/17dbcd7))
+
+
+
+<a name="2.9.0"></a>
+# 2.9.0 (2016-06-13)
+
+* Adjust mark style ([850a4be](https://github.com/kikobeats/uno-zen/commit/850a4be))
+* Better dev reload ([9998f80](https://github.com/kikobeats/uno-zen/commit/9998f80))
+* javascript factor bundle ([22293ed](https://github.com/kikobeats/uno-zen/commit/22293ed))
+* Little Refactor ([08f0745](https://github.com/kikobeats/uno-zen/commit/08f0745))
+* Remove 5xx URL ([bdbbf8e](https://github.com/kikobeats/uno-zen/commit/bdbbf8e))
+* Update build process ([744d46e](https://github.com/kikobeats/uno-zen/commit/744d46e))
+* Use Google Search instead of GhostHunter ([94e0604](https://github.com/kikobeats/uno-zen/commit/94e0604))
+
+
+
+<a name="2.8.3"></a>
+## 2.8.3 (2016-06-01)
+
+* Remove unnecessary ([422da16](https://github.com/kikobeats/uno-zen/commit/422da16))
+* Update docs link ([19b09d5](https://github.com/kikobeats/uno-zen/commit/19b09d5))
+* Use the same date format ([77ceee8](https://github.com/kikobeats/uno-zen/commit/77ceee8))
+* Use title attribute with a tag ([61ef8ab](https://github.com/kikobeats/uno-zen/commit/61ef8ab))
+
+
+
+<a name="2.8.2"></a>
+## 2.8.2 (2016-05-23)
+
+* Adjust node version ([f74f27e](https://github.com/kikobeats/uno-zen/commit/f74f27e))
+* Adjust search icon ([06dbc32](https://github.com/kikobeats/uno-zen/commit/06dbc32))
+* Quote handlebars helpers ([d8a71dc](https://github.com/kikobeats/uno-zen/commit/d8a71dc))
+* Remove unnecessary dep ([b6818a8](https://github.com/kikobeats/uno-zen/commit/b6818a8))
+* Remove unnecessary escape ([1d854c8](https://github.com/kikobeats/uno-zen/commit/1d854c8))
+* Update README ([3ceeab0](https://github.com/kikobeats/uno-zen/commit/3ceeab0))
+* Update SHOWCASE.md ([849b60e](https://github.com/kikobeats/uno-zen/commit/849b60e))
+* Update SHOWCASE.md ([2192084](https://github.com/kikobeats/uno-zen/commit/2192084))
+* Upgrade Ghost version ([abee6a2](https://github.com/kikobeats/uno-zen/commit/abee6a2))
+* Use HTTPS as possible ([a0d7c07](https://github.com/kikobeats/uno-zen/commit/a0d7c07))
+* Use SASS @mixin & @extend correctly ([1da86e5](https://github.com/kikobeats/uno-zen/commit/1da86e5))
+
+
+
+<a name="2.8.1"></a>
+## 2.8.1 (2016-05-08)
+
+* Adjust style ([ef6b3c3](https://github.com/kikobeats/uno-zen/commit/ef6b3c3))
+
+
+
+<a name="2.8.0"></a>
+# 2.8.0 (2016-05-08)
+
+* Linkify post headers ([b5a0b63](https://github.com/kikobeats/uno-zen/commit/b5a0b63))
+* updated readme file with alternative installation instructions ([cbee6a2](https://github.com/kikobeats/uno-zen/commit/cbee6a2))
+
+
+
 <a name="2.7.9"></a>
 ## 2.7.9 (2016-04-12)
 
